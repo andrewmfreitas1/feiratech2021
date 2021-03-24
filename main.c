@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("Ola mundo!\n");
+    printf("Feira Tecnologica!\n");
     return 0;
 }
